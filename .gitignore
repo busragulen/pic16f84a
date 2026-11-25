@@ -1,0 +1,6 @@
+*.hex
+*.lst
+*.cod
+*.err
+*.o
+.DS_Store
